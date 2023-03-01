@@ -5,7 +5,7 @@
 ```java
 public class {
     public static void main{
-        System.out.print("Hello World");
+        System.out.print("Hello Github");
     }
 }
 ```
